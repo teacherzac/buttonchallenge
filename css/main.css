@@ -1,0 +1,29 @@
+body {
+	text-align: center
+}
+
+.button button {
+
+display: block;
+background-color: cyan;
+border:none;
+margin: 300px auto;
+padding: 15px 30px;
+color:lightslategray;
+text-align:center;
+text-decoration: none;
+display: inline-block;
+font-size: 32px;
+border-radius: 33px;
+}
+
+.button button:hover {
+	background-color:darkcyan;
+	border:5px solid yellow;
+	box-shadow: 0 1px 1px navy;
+	color:linen;
+}
+
+/*.button button {*/
+	/*color: red;*/
+/*}
